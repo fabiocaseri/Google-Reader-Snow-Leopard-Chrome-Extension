@@ -1,3 +1,19 @@
+v1.6.1 - 12 Apr 2011
+Updated to vidal's 1.6.1:
+  [New] Added blue gradients to menu-items when hovering over them and removed the underline. (Thanks to Ilidio for pointing this out.)
+  [Fix] Added selected starred unread count text color. (For use with my extension "Better Google Reader v0.95")
+  [Fix] Added support for the latest webkit nightlies.
+  
+  [Fix] Fixed the navigation toolbar after google made some changes, and stylized the new elements.
+  
+  [Fix] There was a margin-gap in the topbar when in fullscreen mode ('f'), now it's set back to 0 in fullscreen mode.
+  
+  [New] Added Google Apps switcher toolbar buttons.
+  
+  [Fix] Fixed a bug where an unseen object related to the multi-account button/link would obscure certain buttons. 
+  
+  [New] Some changes to search results.
+
 v1.3
 [Fix] Fixed the misalignment problem with 4-button top-right toolbar (thanks Umlauf)
 [New] Added new international domains
