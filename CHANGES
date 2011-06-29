@@ -1,3 +1,7 @@
+v1.6.2 - 29 Jun 2011
+Updated to vidal's 1.6.1:
+  [Fix] Fixed a bug caused by an update of Google reader.
+
 v1.6.1 - 12 Apr 2011
 Updated to vidal's 1.6.1:
   [New] Added blue gradients to menu-items when hovering over them and removed the underline. (Thanks to Ilidio for pointing this out.)

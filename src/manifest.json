@@ -1,6 +1,6 @@
 {
 	"name": "Google Reader Snow Leopard",
-	"version": "1.6.1",
+	"version": "1.6.2",
 	"description": "Transform Google Reader™ to fit in more with Snow Leopard. Port of Vidal van Bergen's Safari extension.",
 	"icons": {
 		"32": "icon-32.png",
