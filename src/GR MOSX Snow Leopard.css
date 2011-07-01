@@ -122,8 +122,9 @@ body {
   background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, color-stop(0%, rgba(0, 0, 0, 0)), color-stop(100%, rgba(0, 0, 0, 0.2))) !important;
   background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.2) 100%) !important;
   background-image: linear-gradient(top, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.2) 100%) !important; }
-#gbg .gbts {
+#gbg .gbts, #gbi1.gbids {
   border: 0 !important;
+  color: #000 !important;
   text-shadow: #dddddd 0 1px !important; }
 #gbg .gbto {
   -webkit-box-shadow: none !important;
@@ -153,6 +154,10 @@ body {
   background: transparent !important; }
   .gbmc .gbps2 {
     color: #bfbfbf !important; }
+	
+.gbmsg {
+  background: transparent !important;
+  color: #bfbfbf !important; }
 
 #gbz a.gbmt, #gbz .gbml1, #gbz .gbmpmn, #gbg a.gbmt, #gbg .gbml1, #gbg .gbmpmn, .gbps {
   color: white !important; }
@@ -745,7 +750,7 @@ a:hover .tree-item-action-container {
 #search {
   z-index: 101 !important;
   top: -1px !important;
-  right: 33px !important;
+  right: 150px !important;
   background: transparent !important;
   margin-left: auto !important;
   width: 285px !important;
